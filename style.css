@@ -77,7 +77,7 @@ nav ul li{
     margin-left: 1.5rem;
 }
 nav ul li a{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-weight: 700;
     color: hsl(273, 4%, 51%);
     text-transform: uppercase;
@@ -250,7 +250,7 @@ footer section{
     margin-bottom: 0.7rem;
 }
 .bottom div ul li a{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     color: hsl(256, 26%, 20%);
 }
 .bottom div ul li a:hover{
