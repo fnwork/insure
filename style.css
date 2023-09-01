@@ -36,7 +36,7 @@ ul li{
     background-color: hsl(0, 0%, 98%);
     color: hsl(256, 26%, 20%);
 }
-h1, h2, h3, h4{
+h1, h2, h3{
     font-family: 'DM Serif Display', serif;
 }
 
@@ -240,7 +240,7 @@ footer section{
     text-transform: uppercase;
     font-weight: bold;
 }
-.bottom h4{
+.bottom h3{
     font-size: 0.8rem;
     color: hsl(273, 4%, 51%);
     margin-bottom: 2.3rem;
